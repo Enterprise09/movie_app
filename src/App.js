@@ -10,7 +10,7 @@ class App extends React.Component {
   };
   minus = () => {
     this.setState({ count: this.state.count - 1 });
-  };
+  }; //minus
   render() {
     return (
       <div>
