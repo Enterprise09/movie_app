@@ -1,6 +1,7 @@
 .detail_box {
   justify-content: space-between;
   width: 60%;
+  max-width: 70%;
   margin: auto;
   margin-top: 4%;
   background-color: lightgray;
